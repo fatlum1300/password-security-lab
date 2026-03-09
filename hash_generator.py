@@ -1,6 +1,6 @@
 import hashlib
 import argparse
-
+########################################
 SUPPORTED_ALGORITHMS = ["md5", "sha256"]
 
 def hash_password(password, algorithm):

@@ -3,7 +3,6 @@
 > **Educational cybersecurity project** demonstrating password hashing, dictionary attacks, and why weak passwords are dangerous — built with pure Python.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Topic](https://img.shields.io/badge/Topic-Cybersecurity-red)
 ![Status](https://img.shields.io/badge/Status-Educational-yellow)
 
@@ -368,4 +367,4 @@ On the GitHub repository page, click the gear icon next to **About** and add top
 
 ---
 
-*Built by [fatlum1300](https://github.com/fatlum1300) · Password Security Lab · MIT License*
+*Built by [fatlum1300](https://github.com/fatlum1300)

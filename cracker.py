@@ -3,7 +3,7 @@ import argparse
 import time
 import sys
 import os
-
+########################################
 SUPPORTED_ALGORITHMS = ["md5", "sha256"]
 
 def hash_candidate(candidate, algorithm):

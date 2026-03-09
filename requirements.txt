@@ -1,0 +1,12 @@
+# Password Security Lab — Python dependencies
+# All modules used are part of the Python standard library.
+# No third-party packages are required.
+#
+# Python >= 3.8 is recommended.
+#
+# Standard-library modules used:
+#   hashlib   — hashing algorithms (MD5, SHA-256)
+#   argparse  — CLI argument parsing
+#   time      — performance timing
+#   sys       — exit codes
+#   os        — file path checks
